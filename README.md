@@ -12,7 +12,7 @@
       - Frontend & Backend (Fullstack) Technologies, Data Structures & Algorithms, & Game Development
 
 - 👀 I'm currently looking for ...
-      - Software Engineering 1 or 2 Positions for 2025
+      - "Software Engineering 1" & "Software Engineering 2" Positions for 2025
   
 - 🤠 Fun facts: ...
       - I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, Philly sports & content creating 😄
