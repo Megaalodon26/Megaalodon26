@@ -2,20 +2,20 @@
 
 "For the things we have to learn before we can do them, we learn by doing them." - Aristotle
 
-- 💻 I’m currently working on ...
-      - Disney Vacation Planning Chatbot (Python, SQLite, PyCharm)
-      - Personal Website Portfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code)
-      - 2D Video Game (Python, Pygame, Tiled, PyCharm)
-      - Tetris Video Game (Python, Pygame, PyCharm)
+- 💻 I’m currently working on a ...
+      Disney Vacation Planning Chatbot (Python, SQLite, PyCharm),
+      Personal Website Portfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code),
+      2D Video Game (Python, Pygame, Tiled, PyCharm), & a
+      Tetris Video Game (Python, Pygame, PyCharm)
   
 - 🧠 I’m currently learning about ...
-      - Frontend & Backend (Fullstack) Technologies, Data Structures & Algorithms, & Game Development
+      Frontend & Backend (Fullstack) Technologies, Data Structures & Algorithms, & Game Development
 
 - 👀 I'm currently looking for ...
-      - "Software Engineering 1" & "Software Engineering 2" Positions for 2025
+      "Software Engineering 1" & "Software Engineering 2" Positions for 2025
   
 - 🤠 Fun facts: ...
-      - I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, Philly sports & content creating 😄
+      I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, Philly sports & content creating 😄
 
 <!-- Snake -->
 <div align="center">
