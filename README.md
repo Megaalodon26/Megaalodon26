@@ -4,7 +4,7 @@
       - Disney Vacation Planning Chatbot (Python, SQLite, PyCharm)
       - Personal Website Porfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code)
       - 2D Video Game (Python, Pygame, Tiled, PyCharm)
-      - Tetris (Python, Pygame, PyCharm)
+      - Tetris Video Game (Python, Pygame, PyCharm)
   
 - 🌱 I’m currently learning ...
       - Frontend & Backend (Fullstack) Technologies, Data Structures & Algorithms, & Game Development
