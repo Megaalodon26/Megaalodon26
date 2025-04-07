@@ -1,5 +1,7 @@
 ## Hey there, I'm Meg! Just your friendly neighborhood 27 year old navigating their 20's 🕷️
 
+"For the things we have to learn before we can do them, we learn by doing them." - Aristotle
+
 - 💻 I’m currently working on ...
       - Disney Vacation Planning Chatbot (Python, SQLite, PyCharm)
       - Personal Website Portfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code)
