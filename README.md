@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working on ...
       - Disney Vacation Planning Chatbot (Python, SQLite, PyCharm)
-      - Personal Website Porfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code)
+      - Personal Website Portfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code)
       - 2D Video Game (Python, Pygame, Tiled, PyCharm)
       - Tetris Video Game (Python, Pygame, PyCharm)
   
