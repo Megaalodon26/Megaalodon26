@@ -1,6 +1,10 @@
 ## Hey there, I'm Meg! Just your friendly neighborhood 27 year old navigating their 20's 🕷️
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9fb61006-d790-4230-820d-87d8094f77e7" width="60" height="60"/>
 "For the things we have to learn before we can do them, we learn by doing them." - Aristotle
+<img src="https://github.com/user-attachments/assets/9fb61006-d790-4230-820d-87d8094f77e7" width="60" height="60"/>
+</div>
 
 - 💻 I’m currently working on a ...
       Disney Vacation Planning Chatbot (Python, SQLite, PyCharm),
@@ -15,7 +19,11 @@
       "Software Engineering 1" & "Software Engineering 2" Positions for 2025
   
 - 🤠 Fun facts: ...
-      I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, running, Philly sports & content creating 😄
+      I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, running, Philly sports & content creating
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1626798f-2d62-4c2a-ab4e-fd7ae6268a38"/>
+</div>
 
 <!-- Snake -->
 <div align="center">
