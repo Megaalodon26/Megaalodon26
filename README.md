@@ -9,8 +9,7 @@
 - 💻 I’m currently working on a ...
       Disney Vacation Planning Chatbot (Python, SQLite, PyCharm),
       Personal Website Portfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code),
-      2D Side-scroller Video Game (Python, Pygame, Tiled, PyCharm), & a
-      Tetris Video Game (Python, Pygame, PyCharm)
+      2D Platformer Video Game (Python, Pygame, Tiled, PyCharm), Tetris Video Game (Godot Engine, GDScript), 2D Side-scrolling Video Game (Godot Engine, GDScript), Movie List App (Javascript, React, Open Movie DB API, Node.js, Visual Studio Code, & a Coloring Book App (Swift, SwiftUI, UIKit, CocoaPods)
   
 - 🧠 I’m currently learning about ...
       Frontend & Backend (Fullstack) Technologies, Data Structures & Algorithms, & Game Development
