@@ -20,7 +20,7 @@
       "Software Engineering 1" & "Software Engineering 2" Positions for 2025
   
 - 🤠 Fun facts: ...
-      I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, running, Philly sports & content creating
+      I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, cooking, Philly sports & content creating
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/1626798f-2d62-4c2a-ab4e-fd7ae6268a38"/>
