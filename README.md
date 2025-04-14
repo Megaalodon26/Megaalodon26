@@ -1,17 +1,12 @@
 ## Hey there, I'm Meg! Just your friendly neighborhood 27 year old navigating their 20's 🕷️
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/9fb61006-d790-4230-820d-87d8094f77e7" width="60" height="60"/>
 "For the things we have to learn before we can do them, we learn by doing them." - Aristotle
-<img src="https://github.com/user-attachments/assets/9fb61006-d790-4230-820d-87d8094f77e7" width="60" height="60"/>
 </div>
 
 - 💻 I’m currently working on a ...
-      Disney Vacation Planning Chatbot (Python, ChatterBot, SQLite, PyCharm),
+      Disney Vacation Planning Chatbot (Python, ChatterBot, AI, SQLite, PyCharm),
       Personal Website Portfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code),
-      2D Platformer Video Game (Python, Pygame, Tiled, PyCharm),
-      Tetris Video Game (Godot Engine, GDScript), 2D Side-scrolling Video Game (Godot Engine, GDScript),
-      Movie List App (Javascript, Vue, Open Movie DB API, Node.js, Visual Studio Code) & a Coloring Book App (Swift, SwiftUI, UIKit, CocoaPods)
   
 - 🧠 I’m currently learning about ...
       Frontend & Backend (Fullstack) Technologies, Data Structures & Algorithms, & Game Development
