@@ -1,4 +1,4 @@
-## Hey there, I'm Meg! Just your average 27-year-old neighborhood engineer navigating their 20's 🕷️
+## Hey there, I'm Meg! Just your average 27-year-old engineer navigating their 20's 🕷️
 
 <div align="center">
 "For the things we have to learn before we can do them, we learn by doing them." - Aristotle
