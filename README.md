@@ -5,7 +5,7 @@
 </div>
 
 - 💻 I’m currently working on a ...
-      Disney Vacation Planning Chatbot (Python, ChatterBot, SQLite, PyCharm), Personal Website Portfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code)
+      Walt Disney World Vacation Planning Chatbot (Python, ChatterBot, SQLite, PyCharm), Personal Website Portfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code)
   
 - 🧠 I’m currently learning about ...
       Python, Java JavaScript, Data Structures, Algorithms & Game Development
