@@ -8,13 +8,13 @@
       Disney Vacation Planning Chatbot (Python, ChatterBot, SQLite, PyCharm), Personal Website Portfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code)
   
 - 🧠 I’m currently learning about ...
-      Frontend & Backend (Fullstack) Technologies, Data Structures, Algorithms & Game Development
+      Python, Java JavaScript, Data Structures, Algorithms & Game Development
 
 - 👀 I'm currently looking for ...
-      "Software Engineering 1" & "Software Engineering 2" Positions for 2025
+      "Software Engineering 1" & "Software Engineering 2" Positions for 2025! 😄
   
 - 🤠 Fun facts: ...
-      I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, cooking, Philly sports & content creating
+      I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, reading comics, Philly sports & content creating
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/1626798f-2d62-4c2a-ab4e-fd7ae6268a38"/>
