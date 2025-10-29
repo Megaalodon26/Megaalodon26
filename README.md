@@ -26,4 +26,11 @@
   ![snake gif](https://github.com/Megaalodon26/Megaalodon26/blob/output/github-snake-dark.svg)
 
 </div>
+<div>
+      
+![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megaalodon26&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Megaalodon26&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Megaalodon26&theme=tokyonight)
+
+</div>
 
