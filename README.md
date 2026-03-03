@@ -14,7 +14,7 @@
       Fullstack Software Engineer 1 😄!
   
 - 🤠 Fun facts: ...
-      I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, reading comics, Philly sports & content creating
+      I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, Philly sports & content creating
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/1626798f-2d62-4c2a-ab4e-fd7ae6268a38"/>
