@@ -1,4 +1,4 @@
-## Hey there, I'm Meg! I'm a 27-year-old software engineer from Philly! 👋🏻 More about me:
+## Hey there, I'm Meg! I'm a 28-year-old software engineer from Philly! 👋🏻 More about me:
 
 <div align="center">
 "For the things we have to learn before we can do them, we learn by doing them." - Aristotle
@@ -10,8 +10,8 @@
 - 🧠 I’m currently learning about ...
       Python, Django, Java, JavaScript, node.js, Data Structures, Algorithms & Game Development
 
-- 👀 I'm currently looking for ...
-      "Software Engineering 1" & "Software Engineering 2" Positions for 2025! 😄
+- 👀 I'm currently working as a ...
+      Full-stack Software Engineer 1 😄!
   
 - 🤠 Fun facts: ...
       I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, reading comics, Philly sports & content creating
