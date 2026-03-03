@@ -11,7 +11,7 @@
       Python, Django, Java, JavaScript, node.js, Data Structures, Algorithms & Game Development
 
 - 👀 I'm currently working as a ...
-      Full-stack Software Engineer 1 😄!
+      Fullstack Software Engineer 1 😄!
   
 - 🤠 Fun facts: ...
       I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, reading comics, Philly sports & content creating
