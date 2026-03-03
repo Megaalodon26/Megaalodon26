@@ -1,4 +1,4 @@
-## Hey there, I'm Meg! I'm a 28-year-old software engineer from Philly! 👋🏻 More about me:
+## Hey there, I'm Meg! I'm a 28 year old software engineer from Philly! 👋🏻 More about me:
 
 <div align="center">
 "For the things we have to learn before we can do them, we learn by doing them." - Aristotle
