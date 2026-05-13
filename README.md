@@ -8,13 +8,13 @@
       Walt Disney World Vacation Planning Chatbot (Python, Django, ChatterBot, JSON Logger, SQLite, PyCharm), Personal Website Portfolio (JavaScript, React, Node.js, Spotify Web API, Visual Studio Code)
   
 - 🧠 I’m currently learning about ...
-      JavaScript, node.js, Databases, aws, Data Structures, Algorithms & Game Development
+      JavaScript, React.js, node.js, Express.js, MongoDB, Mongoose, AWS, Unity, C#, and Data Structures & Algorithms
 
 - 👀 I'm currently working as a ...
       Fullstack Software Engineer 1 😄!
   
 - 🤠 Fun facts: ...
-      I love Marvel/Star Wars movies, Nintendo/Playstation games, playing tennis, Philly sports & content creating
+      I love Marvel/Star Wars movies, Nintendo/Playstation games, running, Philly sports & content creating
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/1626798f-2d62-4c2a-ab4e-fd7ae6268a38"/>
